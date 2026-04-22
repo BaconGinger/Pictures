@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baconginger.github.io/sitemap.xml
